@@ -58,7 +58,7 @@
         "dirty-chai": "^2.0.1",
         "ethereum-types": "^3.2.0",
         "lodash": "^4.17.11",
-        "web3-provider-engine": "14.0.6"
+        "web3-provider-engine": "15.0.1"
     },
     "publishConfig": {
         "access": "public"
