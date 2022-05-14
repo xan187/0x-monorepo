@@ -49,7 +49,7 @@
     "dependencies": {
         "@0x/types": "^3.2.0",
         "@0x/utils": "^5.5.1",
-        "@lerna/batch-packages": "^3.0.0-beta.18",
+        "@lerna/batch-packages": "^3.6.0",
         "@types/depcheck": "^0.6.0",
         "async-child-process": "^1.1.1",
         "chalk": "^2.3.0",
@@ -65,9 +65,9 @@
         "rimraf": "^2.6.2",
         "semver": "5.5.0",
         "semver-diff": "^2.1.0",
-        "semver-sort": "0.0.4",
+        "semver-sort": "1.0.0",
         "typedoc": "^0.15.0",
-        "yargs": "^10.0.3"
+        "yargs": "^13.2.4"
     },
     "publishConfig": {
         "access": "public"
