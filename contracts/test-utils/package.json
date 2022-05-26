@@ -73,7 +73,7 @@
         "js-combinatorics": "^0.5.3",
         "lodash": "^4.17.11",
         "make-promises-safe": "^1.1.0",
-        "mocha": "^6.2.0"
+        "mocha": "^6.2.1"
     },
     "publishConfig": {
         "access": "public"
