@@ -91,7 +91,7 @@
         "@types/web3-provider-engine": "^14.0.0",
         "ethereum-types": "^3.2.0",
         "ethers": "~4.0.4",
-        "lodash": "^4.17.11"
+        "lodash": "^4.17.20"
     },
     "optionalDependencies": {
         "@ledgerhq/hw-transport-node-hid": "^4.3.0"
