@@ -63,8 +63,8 @@
         "prompt": "^1.1.0",
         "publish-release": "https://github.com/0xProject/publish-release.git#3f8be1105a356527f4b362ff456d94bf9a82f2ed",
         "rimraf": "^2.6.2",
-        "semver": "5.5.0",
-        "semver-diff": "^2.1.0",
+        "semver": "7.5.2",
+        "semver-diff": "^4.0.0",
         "semver-sort": "1.0.0",
         "typedoc": "^0.15.0",
         "yargs": "^13.2.4"
