@@ -1,0 +1,1 @@
+src/assets/v1.0.0/proxy_factory.json
