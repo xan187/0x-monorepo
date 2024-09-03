@@ -63,7 +63,7 @@
         "prompt": "^1.1.0",
         "publish-release": "1.6.1",
         "rimraf": "^4.3.1",
-        "semver": "7.6.0",
+        "semver": "7.6.1",
         "semver-diff": "^2.1.0",
         "semver-sort": "1.0.0",
         "typedoc": "^0.21.10",
