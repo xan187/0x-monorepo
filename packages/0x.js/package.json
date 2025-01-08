@@ -90,9 +90,9 @@
         "@types/node": "12.12.54",
         "@types/web3-provider-engine": "^14.0.0",
         "ethereum-types": "^3.2.0",
-        "ethers": "~5.0.0",
+        "ethers": "~6.0.0",
         "lodash": "^4.17.11",
-        "web3-provider-engine": "16.0.8"
+        "web3-provider-engine": "17.0.0"
     },
     "publishConfig": {
         "access": "public"
